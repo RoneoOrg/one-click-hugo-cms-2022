@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://one-click-hugo-cms-2022.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
